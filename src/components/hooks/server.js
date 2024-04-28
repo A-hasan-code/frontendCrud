@@ -1,1 +1,1 @@
-export const server ="http://localhost:3003/"
+export const server ="https://crudassignment-production.up.railway.app/"
